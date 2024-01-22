@@ -1,5 +1,9 @@
 ## Hello there 👋
 
+SlvCtrl+ is your companion to orchestrate and automate your most beloved toys. It's free and it's open source.
+
+Read the [documentation](https://github.com/SlvCtrlPlus/slvctrlplus-doc) to get started today!
+
 <!--
 
 **Here are some ideas to get you started:**
